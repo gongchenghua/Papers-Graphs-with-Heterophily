@@ -18,7 +18,7 @@
   
 - [KDD 2023] **Spatial Heterophily Aware Graph Neural Networks** [[Paper](https://arxiv.org/abs/2306.12139)], [[Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN)]
 - [KDD-W 2023] **Examining the Effects of Degree Distribution and Homophily in Graph Learning Models** [[Paper](https://arxiv.org/abs/2307.08881)], [[Code](https://github.com/google-research/graphworld)]
-
+- [WWW 2023] **Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task** [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583464)], [[Code]]
 - [WWW 2023] **Addressing Heterophily in Graph Anomaly Detection: A Perspective of Graph Spectrum** [[Paper](https://hexiangnan.github.io/papers/www23-graphAD.pdf)], [[Code](https://github.com/blacksingular/GHRN)]
 - [WWW 2023] **Homophily-oriented Heterogeneous Graph Rewiring** [[Paper](https://arxiv.org/abs/2302.06299)], [Code]
 - [WWW 2023] **Auto-HeG: Automated Graph Neural Network on Heterophilic Graphs** [[Paper](https://arxiv.org/pdf/2302.12357)], [Code]
