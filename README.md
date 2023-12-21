@@ -32,7 +32,8 @@
 - [AAAI-W 2023] **2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance** [[Paper](https://arxiv.org/abs/2212.13202)], [Code]
   
 - [CIKM 2023] **Homophily-enhanced Structure Learning for Graph Clustering** [[Paper](https://arxiv.org/abs/2308.05309)], [[Code](https://github.com/galogm/HoLe)]
-  
+- [PMLR] **GOAT: A Global Transformer on Large-scale Graphs** [[Paper](https://proceedings.mlr.press/v202/kong23a.html)], [[Code]](https://github.com/devnkong/GOAT.)
+
 - [ECML-PKDD 2023] **Leveraging Free Labels to Power up Heterophilic Graph Learning in Weakly-Supervised Settings: An Empirical Study** [[Paper](https://www.springerprofessional.de/leveraging-free-labels-to-power-up-heterophilic-graph-learning-i/26051948)], [Code]
 - [ECML-PKDD 2023] **Learning to Augment Graph Structure for both Homophily and Heterophily** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_1)], [[Code](https://github.com/LirongWu/L2A)]
   
@@ -53,7 +54,6 @@
 - [OpenReview] **Node Classification Beyond Homophily: Towards a General Solution** [[Paper](https://openreview.net/forum?id=kh3JurmKlux)], [Code]
 - [OpenReview] **ProtoGNN: Prototype-Assisted Message Passing Framework for Non-Homophilous Graphs** [[Paper](https://openreview.net/forum?id=LeZ39Gkwbi0)], [Code]
 - [OpenReview] **From ChebNet to ChebGibbsNet** [[Paper](https://openreview.net/forum?id=2a5Ru3JtNe0)], [Code]
-- [OpenReview] **GOAT: A Global Transformer on Large-scale Graphs** [[Paper](https://openreview.net/forum?id=z29R0uMiF3v)], [[Code]](https://github.com/devnkong/GOAT)
 - [OpenReview] **Wide Graph Neural Network** [[Paper](https://openreview.net/forum?id=Ih0fKoIUyEh)], [Code]
 - [OpenReview] **SlenderGNN: Accurate, Robust, and Interpretable GNN, and the Reasons for its Success**  [[Paper](https://openreview.net/forum?id=lMgFRIILVB)], [Code]
 - [OpenReview] **ReD-GCN: Revisit the Depth of Graph Convolutional Network** [[Paper](https://openreview.net/forum?id=tMg5hKRiW-2)], [Code]
@@ -61,6 +61,7 @@
 - [OpenReview] **Are Graph Attention Networks Attentive Enough? Rethinking Graph Attention by Capturing Homophily and Heterophily** [[Paper](https://openreview.net/forum?id=Xk10fyKR8G)], [Code]
 - [OpenReview] **Causally-guided Regularization of Graph Attention improves Generalizability** [[Paper](https://openreview.net/forum?id=U086TJFWy4p)], [Code]
 
+- [ArXiv] **p-Laplacian Transformer** [[Paper](http://arxiv.org/abs/2311.03235)], [Code]
 - [ArXiv] **Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views**  [[Paper](https://arxiv.org/abs/2308.10077)], [Code]
 - [ArXiv] **Domain-adaptive Message Passing Graph Neural Network** [[Paper](https://arxiv.org/abs/2308.16470)], [[Code](https://github.com/shenxiaocam/DM_GNN)]
 - [ArXiv] **Extended Graph Assessment Metrics for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2307.10112)], [Code]
