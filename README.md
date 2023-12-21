@@ -125,7 +125,7 @@
 - [AAAI2022] **Deformable Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2112.14438)], [Code]
 - [AAAI2022] **Graph Pointer Neural Networks** [[Paper](https://arxiv.org/abs/2110.00973)], [Code]
 
-- [ICASSP 2022] Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination, , [[Paper](https://arxiv.org/abs/2202.00423)], [[Code]](https://github.com/JC-202/MMP)
+- [ICASSP 2022] **Memory-based Message Passing: Decoupling the Message for Propogation from Discrimination** [[Paper](https://arxiv.org/abs/2202.00423)], [[Code]](https://github.com/JC-202/MMP)
 
 - [LoG 2022] **Label-Wise Message Passing Graph Neural Network on Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2110.08128)], [[Code]](https://github.com/EnyanDai/LWGCN)
 - [LoG 2022] **Leave Graphs Alone: Addressing Over-Squashing without Rewiring** [[Paper](https://openreview.net/forum?id=vEbUaN9Z2V8)], [Code]
@@ -207,7 +207,7 @@
 - [ArXiv] **Unifying Homophily and Heterophily Network Transformation via Motifs** [[Paper](https://arxiv.org/abs/2012.11400)], [Code]
 - [ArXiv] **SkipNode: On Alleviating Over-smoothing for Deep Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2112.11628)], [Code]
 - [ArXiv] **Simplifying Approach to Node Classification in Graph Neural Networks** [[Paper](https://arxiv.org/abs/2111.06748)], [[Code](https://github.com/sunilkmaurya/FSGNN)]
-- [ArXiv] **Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?**[[Paper](https://arxiv.org/abs/2109.05641)], [Code]
+- [ArXiv] **Is Heterophily A Real Nightmare For Graph Neural Networks To Do Node Classification?** [[Paper](https://arxiv.org/abs/2109.05641)], [Code]
 - [ArXiv] **GCN-SL: Graph Convolutional Networks with Structure Learning for Graphs under Heterophily** [[Paper](https://arxiv.org/abs/2105.13795)], [Code]
 - [ArXiv] **Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs** [[Paper](https://arxiv.org/abs/2103.14187)], [Code]
 - [ArXiv] **Node2Seq: Towards Trainable Convolutions in Graph Neural Networks** [[Paper](https://arxiv.org/abs/2101.01849)], [Code]
@@ -224,6 +224,10 @@
 ### Year 2019 
 
 - [ICML 2019] **MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing** [[Paper](https://arxiv.org/abs/1905.00067)], [[Code](https://github.com/samihaija/mixhop?tab=readme-ov-file)]
+
+
+
+
 
 
 
