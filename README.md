@@ -104,6 +104,7 @@
 
 - [NeurIPS 2022] **EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks** [[Paper](https://arxiv.org/abs/2205.13892)], [Code]
 - [NeurIPS 2022] **Decoupled Self-supervised Learning for Non-Homophilous Graphs** [[Paper](https://arxiv.org/abs/2206.03601)], [Code]
+- [NeurIPS 2022] **NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/af790b7ae573771689438bbcfc5933fe-Paper-Conference.pdf)], [[Code](https://github.com/qitianwu/NodeFormer)]
 - [NeurIPS 2022] **Simplified Graph Convolution with Heterophily** [[Paper](https://arxiv.org/abs/2202.04139)], [Code]
 - [NeurIPS 2022] **Neural Sheaf Diffusion: A Topological Perspective on Heterophily and Oversmoothing in GNNs** [[Paper](https://arxiv.org/abs/2202.04579)], [[Code]](https://github.com/twitter-research/neural-sheaf-diffusion)
 - [NeurIPS 2022] **Revisiting Heterophily For Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2210.07606), [Code]
