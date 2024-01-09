@@ -1,5 +1,5 @@
-# Learning from Graphs with Heterophily: A Survey and Beyond
-
+# Towards Learning from Graphs with Heterophily: Progress and Future Directions
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ### Year 2023
 
 - [ICLR 2024] **Gradient Gating for Deep Multi-Rate Learning on Graphs** [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
