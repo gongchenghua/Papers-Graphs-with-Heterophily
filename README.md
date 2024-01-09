@@ -2,6 +2,9 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![Stars](https://img.shields.io/github/stars/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=red) ![Forks](https://img.shields.io/github/forks/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=blue&label=Fork)
 
+
+This repository contains a list of the relevant resources on Learning on graphs with heterophily. We categorize the following papers based on their published years. We will try our best to continuously maintain this repository  in real time. If you found any error or any missed paper, please don't hesitate to open issues.
+
 ### Year 2023
 
 - [ICLR 2024] **Gradient Gating for Deep Multi-Rate Learning on Graphs** [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
@@ -11,6 +14,8 @@
 - [ICLR 2024] **GReTo: Remedying dynamic graph topology-task discordance via target homophily** [[Paper](https://openreview.net/forum?id=8duT3mi_5n)], [[Code](https://github.com/zzyy0929/ICLR23-GReTo)]
 - [ICLR-W 2024] **Projections of Model Spaces for Latent Graph Inference** [[Paper](https://arxiv.org/abs/2303.11754v3)], [Code]
 
+- [NeurIPS 2023] **Simple and Asymmetric Graph Contrastive Learning without Augmentations** [[Paper](https://arxiv.org/abs/2310.18884)], [[Code](https://github.com/tengxiao1/GraphACL)]
+- 
 - [ICML 2023] **Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs** [[Paper](https://arxiv.org/abs/2306.07608)], [[Code](https://github.com/zyzisastudyreallyhardguy/GOAL-Graph-Complementary-Learning)]
 - [ICML 2023] **Contrastive Learning Meets Homophily: Two Birds with One Stone** [[Paper](https://openreview.net/forum?id=YIcb3pR8ld)], [Code]
 - [ICML 2023] **Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering** [[Paper](https://arxiv.org/abs/2305.02931)], [[Code](https://github.com/Panern/DGCN)]
