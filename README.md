@@ -21,6 +21,7 @@ This repository contains a list of the relevant resources on Learning on graphs 
 - [ICML 2023] **Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering** [[Paper](https://arxiv.org/abs/2305.02931)], [[Code](https://github.com/Panern/DGCN)]
 - [ICML 2023] **Towards Deep Attention in Graph Neural Networks: Problems and Remedies** [[Paper](https://arxiv.org/abs/2306.02376)], [[Code](https://github.com/syleeheal/AERO-GNN)]
 - [ICML 2023] **Half-Hop: A graph upsampling approach for slowing down message passing** [[Paper](https://openreview.net/forum?id=lXczFIwQkv)], [[Code](https://github.com/nerdslab/halfhop)]
+- [ICML 2023] **GOAT: A Global Transformer on Large-scale Graphs** [[Paper](https://proceedings.mlr.press/v202/kong23a.html)], [[Code]](https://github.com/devnkong/GOAT.)
 - [ICML-W] **Evolving Computation Graphs** [[Paper](https://arxiv.org/abs/2306.12943)], [Code]
   
 - [KDD 2023] **Spatial Heterophily Aware Graph Neural Networks** [[Paper](https://arxiv.org/abs/2306.12139)], [[Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN)]
@@ -39,7 +40,6 @@ This repository contains a list of the relevant resources on Learning on graphs 
 - [AAAI-W 2023] **2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance** [[Paper](https://arxiv.org/abs/2212.13202)], [Code]
   
 - [CIKM 2023] **Homophily-enhanced Structure Learning for Graph Clustering** [[Paper](https://arxiv.org/abs/2308.05309)], [[Code](https://github.com/galogm/HoLe)]
-- [PMLR] **GOAT: A Global Transformer on Large-scale Graphs** [[Paper](https://proceedings.mlr.press/v202/kong23a.html)], [[Code]](https://github.com/devnkong/GOAT.)
 
 - [ECML-PKDD 2023] **Leveraging Free Labels to Power up Heterophilic Graph Learning in Weakly-Supervised Settings: An Empirical Study** [[Paper](https://www.springerprofessional.de/leveraging-free-labels-to-power-up-heterophilic-graph-learning-i/26051948)], [Code]
 - [ECML-PKDD 2023] **Learning to Augment Graph Structure for both Homophily and Heterophily** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_1)], [[Code](https://github.com/LirongWu/L2A)]
