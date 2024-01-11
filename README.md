@@ -16,6 +16,7 @@ This repository contains a list of the relevant resources on Learning on graphs 
 
 - [NeurIPS 2023] **Simple and Asymmetric Graph Contrastive Learning without Augmentations** [[Paper](https://arxiv.org/abs/2310.18884)], [[Code](https://github.com/tengxiao1/GraphACL)]
 
+- [ICML 2023] **Characterizing Graph Datasets for Node Classification:Homophily–Heterophily Dichotomy and Beyond** [[Paper(https://arxiv.org/pdf/2209.06177.pdf)],[[Code]]
 - [ICML 2023] **Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs** [[Paper](https://arxiv.org/abs/2306.07608)], [[Code](https://github.com/zyzisastudyreallyhardguy/GOAL-Graph-Complementary-Learning)]
 - [ICML 2023] **Contrastive Learning Meets Homophily: Two Birds with One Stone** [[Paper](https://openreview.net/forum?id=YIcb3pR8ld)], [Code]
 - [ICML 2023] **Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering** [[Paper](https://arxiv.org/abs/2305.02931)], [[Code](https://github.com/Panern/DGCN)]
