@@ -2,16 +2,134 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![Stars](https://img.shields.io/github/stars/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=red) ![Forks](https://img.shields.io/github/forks/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=blue&label=Fork)
 
-
 This repository contains a list of the relevant resources on Learning on graphs with heterophily. We categorize the following papers based on their published years. We will try our best to continuously maintain this repository  in real time. If you found any error or any missed paper, please don't hesitate to open issues.
+
+# Literature Overview
 <p align = "center">   
 <img src="fig/num.png"  width="200" height=“200”/>
 <img src="fig/piechart.png"  width="300" height=“300”/>
-<img src="fig/keywords.png"  width="350" height=“350”/>
+<img src="fig/keywords.png"  width="300" height=“300”/>
 </p>
 In this survey, we summarize over 180 high-quality papers published in top conferences or journals over the past 5 years including but not limited to ICML, NeurIPS, ICLR, KDD, WWW, TPAMI, etc. To catch up with the frontiers, some latest works on OpenReview and ArXiv are also included. In the above we summarizes the statistics of the collected papers. We see that the number of papers released about heterophilous graph learning has significantly increased in recent three years. Meanwhile, the distribution of collected papers published in major venues is given above. Further, we present the Top-10 keywords that appear in the titles of collected papers.
 
-### Year 2023
+# Taxonomy
+## Learning Strategies
+### (Semi-)Supervised Learning
+
+#### Leveraging Adaptive Filters
+- [ICLR 2021] **Adaptive Universal Generalized PageRank Graph Neural Network** [[Paper](https://arxiv.org/abs/2006.07988)], [[Code](https://github.com/jianhao2016/GPRGNN)]
+- [NeurIPS 2021] **Diverse Message Passing for Attribute with Heterophily** [[Paper](https://openreview.net/forum?id=4jPVcKEYpSZ)], [Code]
+- [AAAI 2021] **Beyond Low-frequency Information in Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2101.00797)], [[Code](https://github.com/bdy9527/FAGCN)]
+- [NeurIPS 2022] **Revisiting Heterophily For Graph Neural Networks** [[Paper]](https://arxiv.org/abs/2210.07606), [Code]
+  
+#### Utilizing Local Neighbors
+- [ICML 2019] **MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing** [[Paper](https://arxiv.org/abs/1905.00067)], [[Code](https://github.com/samihaija/mixhop?tab=readme-ov-file)]
+- [NeurIPS 2020] **Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs**  [[Paper](https://arxiv.org/abs/2006.11468)], [[Code](https://github.com/GemsLab/H2GCN)]
+- [NeurIPS 2021] **Universal Graph Convolutional Networks** [[Paper](https://papers.nips.cc/paper/2021/hash/5857d68cd9280bc98d079fa912fd6740-Abstract.html)], [[Code](https://github.com/jindi-tju/U-GCN)]
+ 
+#### Exploring Non-Local Homophily
+- [ICLR 2020] **Geom-GCN: Geometric Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2002.05287)], [[Code](https://github.com/graphdml-uiuc-jlu/geom-gcn)]
+- [TPAMI] **Non-Local Graph Neural Networks**  [[Paper](https://arxiv.org/abs/2005.14612)], [[Code](https://github.com/divelab/Non-Local-GNN)]
+- [AAAI2022] **Block Modeling-Guided Graph Convolutional Neural Networks** [[Paper](https://arxiv.org/abs/2112.13507)], [[Code](https://github.com/hedongxiao-tju/BM-GCN)]
+- [AAAI2022] **Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily** [[Paper](https://arxiv.org/abs/2112.13562)], [[Code](https://github.com/hedongxiao-tju/HOG-GCN)]
+- [KDD 2021] **Breaking the Limit of Graph Neural Networks by Improving the Assortativity of Graphs with Local Mixing Patterns** [[Paper](https://arxiv.org/abs/2106.06586)], [[Code](https://github.com/susheels/gnns-and-local-assortativity)]
+- [ICML 2022] **Finding Global Homophily in Graph Neural Networks When Meeting Heterophily** [[Paper](https://arxiv.org/abs/2205.07308)], [[Code](https://github.com/recklessronan/glognn)]
+
+#### Modeling Message Passing Process
+- [CIKM 2021] **Tree Decomposed Graph Neural Network** [[Paper](https://arxiv.org/abs/2108.11022)], [[Code](https://github.com/YuWVandy/TDGNN)]
+- [ICLR 2023] **Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing** [[Paper](https://openreview.net/forum?id=wKPmPBHSnT6)], [[Code](https://github.com/LUMIA-Group/OrderedGNN)]
+- [ICLR 2023] **ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks**  [[Paper](https://openreview.net/forum?id=4fZc_79Lrqs)], [[Code](https://github.com/ykiiiiii/ACMP)]
+
+#### Rewiring Graph Topology
+- [ICLR 2022] **Understanding over-squashing and bottlenecks on graphs via curvature** [[Paper](https://arxiv.org/abs/2111.14522)], [Code]
+- [AAAI 2023] **Restructuring Graph for Higher Homophily via Adaptive Spectral Clustering** [[Paper](https://arxiv.org/abs/2206.02386)], [[Code](https://github.com/seanli3/graph_restructure)]
+- [ICML 2023] **Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs** [[Paper](https://arxiv.org/abs/2306.07608)], [[Code](https://github.com/zyzisastudyreallyhardguy/GOAL-Graph-Complementary-Learning)]
+
+### (Semi-)Supervised Learning
+
+#### Contrastive Learning
+- [AAAI 2023] **Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating** [[Pdf](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
+- [CIKM 2023] **MUSE: Multi-View Contrastive Learning for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2307.16026], [[Code](https://anonymous.4open.science/r/MUSE-BD4B)]
+- [ICML 2023] **Half-Hop: A graph upsampling approach for slowing down message passing** [[Paper](https://openreview.net/forum?id=lXczFIwQkv)], [[Code](https://github.com/nerdslab/halfhop)]
+- [NeurIPS 2023] **Simple and Asymmetric Graph Contrastive Learning without Augmentations** [[Paper](https://arxiv.org/abs/2310.18884)], [[Code](https://github.com/tengxiao1/GraphACL)]
+- [ICML 2023] **Contrastive Learning Meets Homophily: Two Birds with One Stone** [[Paper](https://openreview.net/forum?id=YIcb3pR8ld)], [Code]
+
+#### Generative Learning
+- [NeurIPS 2022] **Decoupled Self-supervised Learning for Non-Homophilous Graphs** [[Paper](https://arxiv.org/abs/2206.03601)], [Code]
+- [ICLR 2022] **Graph Auto-Encoder Via Neighborhood Wasserstein Reconstruction** [[Paper](https://arxiv.org/abs/2202.09025)], [[Code]](https://github.com/mtang724/NWR-GAE)
+- [ICML 2023] **Beyond Homophily: Reconstructing Structure for Graph-agnostic Clustering** [[Paper](https://arxiv.org/abs/2305.02931)], [[Code](https://github.com/Panern/DGCN)]
+
+### Other Learning Strategies
+#### Model Robustness Learning
+- [NeurIPS 2022] **EvenNet: Ignoring Odd-Hop Neighbors Improves Robustness of Graph Neural Networks** [[Paper](https://arxiv.org/abs/2205.13892)], [Code]
+- [KDD 2022] **How does Heterophily Impact Robustness of Graph Neural Networks? Theoretical Connections and Practical Implications** [[Paper](https://arxiv.org/abs/2106.07767)], [[Code](https://github.com/GemsLab/HeteRobust)]
+- [ArXiv] **Label Propagation for Graph Label Noise**  [[Paper](https://arxiv.org/pdf/2310.16560)], [Code]
+
+#### Large-scale Graph Learning
+- [NeurIPS 2021] **Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods** [[Paper](https://arxiv.org/abs/2110.14446)], [[Code](https://github.com/cuai/non-homophily-large-scale)]
+- [NeurIPS 2023] **LD2:Scalable heterophilous graph neural network with decoupled embedding** [[Paper](https://openreview.net/forum?id=7zkFc9TGKz)], [Code]
+- [ArXiv] **SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation** [[Paper](https://arxiv.org/abs/2305.09958)], [Code]
+
+#### Graph Prompt Learning
+- [ArXiv] **Prompt Tuning for Multi-View Graph Contrastive Learning**  [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
+- [ArXiv] **Enhancing Graph Neural Networks with Structure-Based Prompt**  [[Paper](https://arxiv.org/pdf/2310.17394)], [Code]
+
+## Model Architectures
+### Message Passing Based Methods
+#### Vanilla MPNNs
+- [CIKM 2023] **MUSE: Multi-View Contrastive Learning for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2307.16026], [[Code](https://anonymous.4open.science/r/MUSE-BD4B)]
+- [ICML 2023] **Half-Hop: A graph upsampling approach for slowing down message passing** [[Paper](https://openreview.net/forum?id=lXczFIwQkv)], [[Code](https://github.com/nerdslab/halfhop)]
+- [NeurIPS 2023] **Simple and Asymmetric Graph Contrastive Learning without Augmentations** [[Paper](https://arxiv.org/abs/2310.18884)], [[Code](https://github.com/tengxiao1/GraphACL)]
+
+#### Component-enhanced MPNNs
+- [TPAMI] **Non-Local Graph Neural Networks**  [[Paper](https://arxiv.org/abs/2005.14612)], [[Code](https://github.com/divelab/Non-Local-GNN)]
+- [AAAI2022] **Graph Pointer Neural Networks** [[Paper](https://arxiv.org/abs/2110.00973)], [Code]
+- [ICLR 2023] **Gradient Gating for Deep Multi-Rate Learning on Graphs** [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
+
+#### Decoupled MPNNs
+- [AAAI 2021] **Beyond Low-frequency Information in Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2101.00797)], [[Code](https://github.com/bdy9527/FAGCN)]
+- [ICML 2022] **Finding Global Homophily in Graph Neural Networks When Meeting Heterophily** [[Paper](https://arxiv.org/abs/2205.07308)], [[Code](https://github.com/recklessronan/glognn)]
+- [CIKM 2021] **Tree Decomposed Graph Neural Network** [[Paper](https://arxiv.org/abs/2108.11022)], [[Code](https://github.com/YuWVandy/TDGNN)]
+- [ICLR 2021] **Adaptive Universal Generalized PageRank Graph Neural Network** [[Paper](https://arxiv.org/abs/2006.07988)], [[Code](https://github.com/jianhao2016/GPRGNN)]
+- [ICML 2020] **Simple and Deep Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2007.02133)]  [[Code](https://github.com/chennnM/GCNII)]
+- [ICML 2023] **Towards Deep Attention in Graph Neural Networks: Problems and Remedies** [[Paper](https://arxiv.org/abs/2306.02376)], [[Code](https://github.com/syleeheal/AERO-GNN)]
+
+### Graph Transformer Based Methods
+- [NeurIPS 2022] **NodeFormer: A Scalable Graph Structure Learning Transformer for Node Classification** [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/af790b7ae573771689438bbcfc5933fe-Paper-Conference.pdf)], [[Code](https://github.com/qitianwu/NodeFormer)]
+- [ICML 2023] **GOAT: A Global Transformer on Large-scale Graphs** [[Paper](https://proceedings.mlr.press/v202/kong23a.html)], [[Code]](https://github.com/devnkong/GOAT.)
+- [ArXiv] **SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning**  [[Paper](https://arxiv.org/abs/2310.11025)], [Code]
+- [WWW 2023] **Rethinking Structural Encodings: Adaptive Graph Transformer for Node Classification Task** [[Paper](https://dl.acm.org/doi/10.1145/3543507.3583464)], [Code]
+
+## Appilications
+### Social Networks
+#### Fraud Detection 
+- [ArXiv] **Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection**  [[Paper](https://arxiv.org/abs/2310.04171)], [Code]
+- [WWW 2022] **H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512195)], [Code]
+- [WWW 2023] **Label Information Enhanced Fraud Detection against Low Homophily in Graphs**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512195)], [Code]
+
+#### Automated Account Detection
+- [ArXiv] **Heterophily-aware Social Bot Detection with Supervised Contrastive Learning**  [[Paper](https://arxiv.org/abs/2306.07478)], [Code]
+- [ArXiv] **HOFA: Twitter Bot Detection with Homophily-Oriented Augmentation and Frequency Adaptive Attention**  [[Paper](https://arxiv.org/pdf/2306.12870.pdf)], [Code]
+- [ArXiv] **Muti-scale Graph Neural Network with Signed-attention for Social Bot Detection: A Frequency Perspective**  [[Paper](https://arxiv.org/abs/2307.01968)], [Code]
+
+### Spatial Networks
+#### Scene Generation
+- [CVPR] **GPS-Net: Graph Property Sensing Network for Scene Graph Generation**  [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Lin_GPS-Net_Graph_Property_Sensing_Network_for_Scene_Graph_Generation_CVPR_2020_paper.html)], [Code]
+- [CVPR] **Heterophily learning network for scene graph generation**  [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Lin_HL-Net_Heterophily_Learning_Network_for_Scene_Graph_Generation_CVPR_2022_paper.html)], [Code]
+
+#### Urban Computation
+- [KDD 2023] **Spatial Heterophily Aware Graph Neural Networks** [[Paper](https://arxiv.org/abs/2306.12139)], [[Code](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/SHGNN)]
+
+### Biochemical networks
+#### Drug Discovery 
+- [Nature Communications] **Network-based prediction of drug combinations** [[Paper](https://www.nature.com/articles/s41467-019-09186-x)], [Code]
+- [A Drug Combination Prediction Framework Based on Graph Convolutional Network and Heterogeneous Information] **Network-based prediction of drug combinations** [[Paper](https://ieeexplore.ieee.org/abstract/document/9964132)], [Code]
+  
+#### Gene Regulation
+- [ArXiv] **Quadratic Graph Attention Network (Q-GAT) for Robust Construction of Gene Regulatory Networks**  [[Paper](https://arxiv.org/abs/2303.14193)], [Code]
+
+# Papers published per year
+## Year 2023
 
 - [ICLR 2023] **Gradient Gating for Deep Multi-Rate Learning on Graphs** [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
 - [ICLR 2023] **ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks**  [[Paper](https://openreview.net/forum?id=4fZc_79Lrqs)], [[Code](https://github.com/ykiiiiii/ACMP)]
@@ -20,6 +138,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ICLR 2023] **GReTo: Remedying dynamic graph topology-task discordance via target homophily** [[Paper](https://openreview.net/forum?id=8duT3mi_5n)], [[Code](https://github.com/zzyy0929/ICLR23-GReTo)]
 - [ICLR-W 2023] **Projections of Model Spaces for Latent Graph Inference** [[Paper](https://arxiv.org/abs/2303.11754v3)], [Code]
 
+- [NeurIPS 2023] **LD2:Scalable heterophilous graph neural network with decoupled embedding** [[Paper](https://openreview.net/forum?id=7zkFc9TGKz)], [Code]
 - [NeurIPS 2023] **Simple and Asymmetric Graph Contrastive Learning without Augmentations** [[Paper](https://arxiv.org/abs/2310.18884)], [[Code](https://github.com/tengxiao1/GraphACL)]
 
 - [ICML 2023] **Characterizing Graph Datasets for Node Classification:Homophily–Heterophily Dichotomy and Beyond** [[Paper](https://arxiv.org/pdf/2209.06177.pdf)], [Code]
@@ -47,6 +166,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [AAAI-W 2023] **2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance** [[Paper](https://arxiv.org/abs/2212.13202)], [Code]
   
 - [CIKM 2023] **Homophily-enhanced Structure Learning for Graph Clustering** [[Paper](https://arxiv.org/abs/2308.05309)], [[Code](https://github.com/galogm/HoLe)]
+- [CIKM 2023] **MUSE: Multi-View Contrastive Learning for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2307.16026], [[Code](https://anonymous.4open.science/r/MUSE-BD4B)]
 
 - [ECML-PKDD 2023] **Leveraging Free Labels to Power up Heterophilic Graph Learning in Weakly-Supervised Settings: An Empirical Study** [[Paper](https://www.springerprofessional.de/leveraging-free-labels-to-power-up-heterophilic-graph-learning-i/26051948)], [Code]
 - [ECML-PKDD 2023] **Learning to Augment Graph Structure for both Homophily and Heterophily** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_1)], [[Code](https://github.com/LirongWu/L2A)]
@@ -75,10 +195,16 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [OpenReview] **Are Graph Attention Networks Attentive Enough? Rethinking Graph Attention by Capturing Homophily and Heterophily** [[Paper](https://openreview.net/forum?id=Xk10fyKR8G)], [Code]
 - [OpenReview] **Causally-guided Regularization of Graph Attention improves Generalizability** [[Paper](https://openreview.net/forum?id=U086TJFWy4p)], [Code]
 
+
 - [ArXiv] **p-Laplacian Transformer** [[Paper](http://arxiv.org/abs/2311.03235)], [Code]
+- [ArXiv] **Prompt Tuning for Multi-View Graph Contrastive Learning**  [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
+- [ArXiv] **SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning**  [[Paper](https://arxiv.org/abs/2310.11025)], [Code]
+- [ArXiv] **Enhancing Graph Neural Networks with Structure-Based Prompt**  [[Paper](https://arxiv.org/pdf/2310.17394)], [Code]
 - [ArXiv] **Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views**  [[Paper](https://arxiv.org/abs/2308.10077)], [Code]
+- [ArXiv] **Label Propagation for Graph Label Noise**  [[Paper](https://arxiv.org/pdf/2310.16560)], [Code]
 - [ArXiv] **Domain-adaptive Message Passing Graph Neural Network** [[Paper](https://arxiv.org/abs/2308.16470)], [[Code](https://github.com/shenxiaocam/DM_GNN)]
 - [ArXiv] **Extended Graph Assessment Metrics for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2307.10112)], [Code]
+- [ArXiv] **Muti-scale Graph Neural Network with Signed-attention for Social Bot Detection: A Frequency Perspective**  [[Paper](https://arxiv.org/abs/2307.01968)], [Code]
 - [ArXiv] **Automated Polynomial Filter Learning for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2307.07956)], [Code]
 - [ArXiv] **Frameless Graph Knowledge Distillation** [[Paper](https://arxiv.org/abs/2307.06631)], [[Code](https://github.com/dshi3553usyd/Frameless_Graph_Distillation)]
 - [ArXiv] **MUSE: Multi-View Contrastive Learning for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2307.16026)], [Code]
@@ -96,6 +222,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Addressing Heterophily in Node Classification with Graph Echo State Networks** [[Paper](https://arxiv.org/abs/2305.08233)], [[Code](https://github.com/dtortorella/addressing-heterophily-gesn)]
 - [ArXiv] **A Fractional Graph Laplacian Approach to Oversmoothing** [[Paper](https://arxiv.org/abs/2305.13084)], [[Code](https://github.com/RPaolino/fLode)]
 - [ArXiv] **From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module** [[Paper](https://arxiv.org/abs/2305.16174)], [Code]
+- [ArXiv] **SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation** [[Paper](https://arxiv.org/abs/2305.09958)], [Code]
 - [ArXiv] **Self-attention Dual Embedding for Graphs with Heterophily** [[Paper](https://arxiv.org/abs/2305.18385)], [Code]
 - [ArXiv] **SIMGA: A Simple and Effective Heterophilous Graph Neural Network with Efficient Global Aggregation** [[Paper](https://arxiv.org/abs/2305.09958)], [Code]
 - [ArXiv] **When Do Graph Neural Networks Help with Node Classification: Investigating the Homophily Principle on Node Distinguishability** [[Paper](https://arxiv.org/abs/2304.14274)], [Code]
@@ -110,8 +237,10 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Neighborhood Homophily-based Graph Convolutional Network** [[Paper](https://arxiv.org/abs/2301.09851v2)], [Code]
 - [ArXiv] **Is Signed Message Essential for Graph Neural Networks?** [[Paper](https://arxiv.org/abs/2301.08918)], [Code]
 
-### Year 2022
+## Year 2022
 
+- [ICLR 2022] **Graph Auto-Encoder Via Neighborhood Wasserstein Reconstruction** [[Paper](https://arxiv.org/abs/2202.09025)], [[Code]](https://github.com/mtang724/NWR-GAE)
+- [ICLR 2022] **Understanding over-squashing and bottlenecks on graphs via curvature** [[Paper](https://arxiv.org/abs/2111.14522)], [Code]
 - [ICLR 2022] **Is Homophily A Necessity for Graph Neural Networks?** [[Paper](https://arxiv.org/abs/2106.06134)], [[Code]](https://openreview.net/attachment?id=ucASPPD9GKN&name=supplementary_material)
 - [ICLR 2022] **Understanding and Improving Graph Injection Attack by Promoting Unnoticeability** [[Paper](https://arxiv.org/abs/2202.08057)], [[Code](https://github.com/lfhase/gia-hao)]
 - [ICLR 2022] **Neural Link Prediction with Walk Pooling** [[Paper](https://arxiv.org/abs/2110.04375)], [[Code](https://github.com/DaDaCheng/WalkPooling)]
@@ -133,6 +262,8 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [KDD 2022] **How does Heterophily Impact Robustness of Graph Neural Networks? Theoretical Connections and Practical Implications** [[Paper](https://arxiv.org/abs/2106.07767)], [[Code](https://github.com/GemsLab/HeteRobust)]
 - [KDD-W 2022] **On Graph Neural Network Fairness in the Presence of Heterophilous Neighborhoods** [[Paper](https://arxiv.org/abs/2207.04376)], [Code]
 
+- [WWW 2022] **H2-FDetector: A GNN-based Fraud Detector with Homophilic and Heterophilic Connections**  [[Paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512195)], [Code]
+- 
 - [IJCAI 2022] **Beyond Homophily: Structure-aware Path Aggregation Graph Neural Network** [[Paper](https://www.ijcai.org/proceedings/2022/310)], [[Code](https://github.com/zjunet/PathNet)]
 - [IJCAI 2022] **RAW-GNN: RAndom Walk Aggregation based Graph Neural Network** [[Paper](https://arxiv.org/abs/2206.13953)], [[Code]](https://github.com/jindi-tju/RAWGNN)
 
@@ -194,7 +325,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Graph Decoupling Attention Markov Networks for Semi-supervised Graph Node Classification** [[Paper](https://arxiv.org/abs/2104.13718)], [Code]
 - [ArXiv] **Relational Graph Neural Network Design via Progressive Neural Architecture Search** [[Paper](https://arxiv.org/abs/2105.14490)], [Code]
 
-### Year 2021
+## Year 2021
 
 - [ICLR 2021] **Adaptive Universal Generalized PageRank Graph Neural Network** [[Paper](https://arxiv.org/abs/2006.07988)], [[Code](https://github.com/jianhao2016/GPRGNN)]
 - [ICLR 2021] **How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision** [[Paper](https://openreview.net/forum?id=Wi5KUNlqWty)], [[Code](https://github.com/dongkwan-kim/SuperGAT)]
@@ -229,7 +360,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Node2Seq: Towards Trainable Convolutions in Graph Neural Networks** [[Paper](https://arxiv.org/abs/2101.01849)], [Code]
 
 
-### Year 2020
+## Year 2020
 
 - [ICLR 2020] **Geom-GCN: Geometric Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2002.05287)], [[Code](https://github.com/graphdml-uiuc-jlu/geom-gcn)]
   
@@ -237,7 +368,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
   
 - [NeurIPS 2020] **Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs**  [[Paper](https://arxiv.org/abs/2006.11468)], [[Code](https://github.com/GemsLab/H2GCN)]
 
-### Year 2019 
+## Year 2019 
 
 - [ICML 2019] **MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing** [[Paper](https://arxiv.org/abs/1905.00067)], [[Code](https://github.com/samihaija/mixhop?tab=readme-ov-file)]
 
