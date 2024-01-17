@@ -7,12 +7,12 @@ This repository contains a list of the relevant resources on Learning on graphs 
 
 ### Year 2023
 
-- [ICLR 2024] **Gradient Gating for Deep Multi-Rate Learning on Graphs** [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
-- [ICLR 2024] **ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks**  [[Paper](https://openreview.net/forum?id=4fZc_79Lrqs)], [[Code](https://github.com/ykiiiiii/ACMP)]
-- [ICLR 2024] **Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing** [[Paper](https://openreview.net/forum?id=wKPmPBHSnT6)], [[Code](https://github.com/LUMIA-Group/OrderedGNN)]
-- [ICLR 2024] **A Critical Look at Evaluation of GNNs Under Heterophily: Are We Really Making Progress?** [[Paper](https://openreview.net/forum?id=tJbbQfw-5wv)], [[Code](https://github.com/yandex-research/heterophilous-graphs)]
-- [ICLR 2024] **GReTo: Remedying dynamic graph topology-task discordance via target homophily** [[Paper](https://openreview.net/forum?id=8duT3mi_5n)], [[Code](https://github.com/zzyy0929/ICLR23-GReTo)]
-- [ICLR-W 2024] **Projections of Model Spaces for Latent Graph Inference** [[Paper](https://arxiv.org/abs/2303.11754v3)], [Code]
+- [ICLR 2023] **Gradient Gating for Deep Multi-Rate Learning on Graphs** [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
+- [ICLR 2023] **ACMP: Allen-Cahn Message Passing with Attractive and Repulsive Forces for Graph Neural Networks**  [[Paper](https://openreview.net/forum?id=4fZc_79Lrqs)], [[Code](https://github.com/ykiiiiii/ACMP)]
+- [ICLR 2023] **Ordered GNN: Ordering Message Passing to Deal with Heterophily and Over-smoothing** [[Paper](https://openreview.net/forum?id=wKPmPBHSnT6)], [[Code](https://github.com/LUMIA-Group/OrderedGNN)]
+- [ICLR 2023] **A Critical Look at Evaluation of GNNs Under Heterophily: Are We Really Making Progress?** [[Paper](https://openreview.net/forum?id=tJbbQfw-5wv)], [[Code](https://github.com/yandex-research/heterophilous-graphs)]
+- [ICLR 2023] **GReTo: Remedying dynamic graph topology-task discordance via target homophily** [[Paper](https://openreview.net/forum?id=8duT3mi_5n)], [[Code](https://github.com/zzyy0929/ICLR23-GReTo)]
+- [ICLR-W 2023] **Projections of Model Spaces for Latent Graph Inference** [[Paper](https://arxiv.org/abs/2303.11754v3)], [Code]
 
 - [NeurIPS 2023] **Simple and Asymmetric Graph Contrastive Learning without Augmentations** [[Paper](https://arxiv.org/abs/2310.18884)], [[Code](https://github.com/tengxiao1/GraphACL)]
 
