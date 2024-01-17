@@ -4,11 +4,11 @@
 
 
 This repository contains a list of the relevant resources on Learning on graphs with heterophily. We categorize the following papers based on their published years. We will try our best to continuously maintain this repository  in real time. If you found any error or any missed paper, please don't hesitate to open issues.
-
+<p align = "center">   
 <img src="fig/num.png"  width="200" height=“200”/>
 <img src="fig/piechart.png"  width="300" height=“300”/>
 <img src="fig/keywords.png"  width="350" height=“350”/>
-
+</p>
 In this survey, we summarize over 180 high-quality papers published in top conferences or journals over the past 5 years including but not limited to ICML, NeurIPS, ICLR, KDD, WWW, TPAMI, etc. To catch up with the frontiers, some latest works on OpenReview and ArXiv are also included. In the above we summarizes the statistics of the collected papers. We see that the number of papers released about heterophilous graph learning has significantly increased in recent three years. Meanwhile, the distribution of collected papers published in major venues is given above. Further, we present the Top-10 keywords that appear in the titles of collected papers.
 
 ### Year 2023
