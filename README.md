@@ -1,4 +1,4 @@
-# Towards Learning from Graphs with Heterophily: Progress and Future Directions
+# Learning from Graphs with Heterophily: Progress and Future Directions
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 ![Stars](https://img.shields.io/github/stars/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=red) ![Forks](https://img.shields.io/github/forks/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=blue&label=Fork)
 
