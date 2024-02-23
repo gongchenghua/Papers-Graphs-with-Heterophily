@@ -129,6 +129,12 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Quadratic Graph Attention Network (Q-GAT) for Robust Construction of Gene Regulatory Networks**  [[Paper](https://arxiv.org/abs/2303.14193)], [Code]
 
 # Papers published per year
+
+## Year 2024
+
+- [WWW 2024] **Disambiguated Node Classification with Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2402.08824.pdf)], [Code]
+- [WWW 2024] **Challenging Low Homophily in Social Recommendation** [[Paper](https://browse.arxiv.org/pdf/2401.14606.pdf)], [Code]
+
 ## Year 2023
 
 - [ICLR 2023] **Gradient Gating for Deep Multi-Rate Learning on Graphs** [[Paper](https://openreview.net/forum?id=JpRExTbl1-)], [Code]
