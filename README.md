@@ -132,6 +132,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 
 ## Year 2024
 - [ICLR 2024] **POLYGCL: GRAPH CONTRASTIVE LEARNING VIA LEARNABLE SPECTRAL POLYNOMIAL FILTERS** [[Paper](https://openreview.net/forum?id=y21ZO6M86t)], [Code]
+- [ICLR 2024] **Polynormer: Polynomial-Expressive Graph Transformer in Linear Time** [[Paper](https://openreview.net/pdf?id=hmv1LpNfXa)], [Code]
 - [WWW 2024] **Disambiguated Node Classification with Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2402.08824.pdf)], [Code]
 - [WWW 2024] **Challenging Low Homophily in Social Recommendation** [[Paper](https://browse.arxiv.org/pdf/2401.14606.pdf)], [Code]
 
