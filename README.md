@@ -142,6 +142,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ICLR 2024] **Polynormer: Polynomial-Expressive Graph Transformer in Linear Time** [[Paper](https://openreview.net/pdf?id=hmv1LpNfXa)], [Code]
 - [WWW 2024] **Disambiguated Node Classification with Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2402.08824.pdf)], [Code]
 - [WWW 2024] **Challenging Low Homophily in Social Recommendation** [[Paper](https://browse.arxiv.org/pdf/2401.14606.pdf)], [Code]
+- [ECML-PKDD 2024] **Self-Pro: A Self-Prompt and Tuning Framework for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
 - [Expert Systems with Applications] **Multi-View Discriminative Edge Heterophily Contrastive Learning Network for Graph Anomaly Detection** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417424013265)], [Code]
 - [Expert Systems with Applications] **KNN-GNN: A powerful graph neural network enhanced by aggregating K-nearest neighbors in common subspace** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417424010832)], [Code]
 
