@@ -135,6 +135,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ICML 2024] **Less is More: on the Over-Globalizing Problem in Graph Transformers** [[Paper](https://arxiv.org/pdf/2405.01102)], [Code]
 - [ICML 2024] **Efficient Contrastive Learning for Fast and Accurate Inference on Graphs** [[Paper](https://openreview.net/forum?id=vsy21Xodrt)], [Code]
 - [ICML 2024] **Mitigating Oversmoothing Through Reverse Process of GNNs for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2403.10543)], [Code]
+- [ICML 2024] **S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning** [[Paper](https://openreview.net/pdf?id=znKAWRZSF9)], [Code]
 - [ICML 2024] **Neurodegenerative Brain Network Classification via Adaptive Diffusion with Temporal Regularization** [[Paper](https://openreview.net/pdf?id=GTnn6bNE3j)], [Code]
 - [ICLR 2024] **Affinity-based homophily: can we measure homophily of a graph without using node labels?** [[Paper](https://openreview.net/forum?id=IsdDOrAowN)], [Code]
 - [ICLR 2024] **POLYGCL: GRAPH CONTRASTIVE LEARNING VIA LEARNABLE SPECTRAL POLYNOMIAL FILTERS** [[Paper](https://openreview.net/forum?id=y21ZO6M86t)], [Code]
