@@ -145,7 +145,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ECML-PKDD 2024] **Self-Pro: A Self-Prompt and Tuning Framework for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
 - [Expert Systems with Applications] **Multi-View Discriminative Edge Heterophily Contrastive Learning Network for Graph Anomaly Detection** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417424013265)], [Code]
 - [Expert Systems with Applications] **KNN-GNN: A powerful graph neural network enhanced by aggregating K-nearest neighbors in common subspace** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417424010832)], [Code]
-
+- [Knowledge and Information Systems] **SimGCL: graph contrastive learning by finding homophily in heterophily** [[Paper](https://doi.org/10.1007/s10115-023-02022-1)], [Code]
 
 ## Year 2023
 
