@@ -139,7 +139,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ICML 2024] **S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning** [[Paper](https://openreview.net/pdf?id=znKAWRZSF9)], [Code]
 - [ICML 2024] **Neurodegenerative Brain Network Classification via Adaptive Diffusion with Temporal Regularization** [[Paper](https://openreview.net/pdf?id=GTnn6bNE3j)], [Code]
 - [ICLR 2024] **Affinity-based homophily: can we measure homophily of a graph without using node labels?** [[Paper](https://openreview.net/forum?id=IsdDOrAowN)], [Code]
-- [ICLR 2024] **POLYGCL: GRAPH CONTRASTIVE LEARNING VIA LEARNABLE SPECTRAL POLYNOMIAL FILTERS** [[Paper](https://openreview.net/forum?id=y21ZO6M86t)], [Code]
+- [ICLR 2024] **PolyGCL: Graph Contrastive Learning via Learnable Spectral Polynomial Filters** [[Paper](https://openreview.net/forum?id=y21ZO6M86t)], [Code]
 - [ICLR 2024] **Polynormer: Polynomial-Expressive Graph Transformer in Linear Time** [[Paper](https://openreview.net/pdf?id=hmv1LpNfXa)], [Code]
 - [WWW 2024] **Disambiguated Node Classification with Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2402.08824.pdf)], [Code]
 - [WWW 2024] **Challenging Low Homophily in Social Recommendation** [[Paper](https://browse.arxiv.org/pdf/2401.14606.pdf)], [Code]
