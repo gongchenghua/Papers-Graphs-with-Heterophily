@@ -219,7 +219,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 
 
 - [ArXiv] **p-Laplacian Transformer** [[Paper](http://arxiv.org/abs/2311.03235)], [Code]
-- [ArXiv] **Prompt Tuning for Multi-View Graph Contrastive Learning**  [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
+- [ArXiv] **NP^2L: Negative Pseudo Partial Labels Extraction for Graph Neural Networks**  [[Paper](https://arxiv.org/pdf/2310.01098)], [Code]
 - [ArXiv] **SignGT: Signed Attention-based Graph Transformer for Graph Representation Learning**  [[Paper](https://arxiv.org/abs/2310.11025)], [Code]
 - [ArXiv] **Enhancing Graph Neural Networks with Structure-Based Prompt**  [[Paper](https://arxiv.org/pdf/2310.17394)], [Code]
 - [ArXiv] **Contrastive Learning for Non-Local Graphs with Multi-Resolution Structural Views**  [[Paper](https://arxiv.org/abs/2308.10077)], [Code]
