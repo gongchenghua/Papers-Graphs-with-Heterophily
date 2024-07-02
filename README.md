@@ -198,6 +198,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [LoG 2023] **On Performance Discrepancies Across Local Homophily Levels in Graph Neural Networks** [[Paper](https://arxiv.org/abs/2306.05557)], [Code]
   
 - [ICME 2023] **Improving the Homophily of Heterophilic Graphs for Semi-Supervised Node Classification** [[Paper](https://www.computer.org/csdl/proceedings-article/icme/2023/689100b865/1PTMICbZ1wQ)], [Code]
+- [ACML 2023] **Unleashing the Power of High-pass Filtering in Continuous Graph Neural Networks** [[Paper](https://proceedings.mlr.press/v222/zhang24e.html)], [Code]
 
 - [Neurocomputing] **Signed attention based graph neural network for graphs with heterophily** [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223008548)], [Code]
 - [TKDD] **Multi-View Graph Representation Learning Beyond Homophily** [[Paper](https://arxiv.org/abs/2304.07509)], [[Code](https://github.com/G-AILab/MVGE)]
