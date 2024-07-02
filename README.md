@@ -151,6 +151,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **What Is Missing In Homophily? Disentangling Graph Homophily For Graph Neural Networks** [[Paper](https://arxiv.org/abs/2406.18854)], [Code]
 - [ArXiv] **Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers** [[Paper](https://arxiv.org/pdf/2406.19258)], [Code]
 - [ArXiv] **NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification** [[Paper](https://arxiv.org/pdf/2406.19249)], [Code]
+- [ArXiv] **Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach** [[Paper](https://arxiv.org/abs/2406.03464)], [Code]
 
 ## Year 2023
 
