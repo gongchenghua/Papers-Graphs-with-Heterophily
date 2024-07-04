@@ -45,7 +45,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [AAAI 2023] **Restructuring Graph for Higher Homophily via Adaptive Spectral Clustering** [[Paper](https://arxiv.org/abs/2206.02386)], [[Code](https://github.com/seanli3/graph_restructure)]
 - [ICML 2023] **Finding the Missing-half: Graph Complementary Learning for Homophily-prone and Heterophily-prone Graphs** [[Paper](https://arxiv.org/abs/2306.07608)], [[Code](https://github.com/zyzisastudyreallyhardguy/GOAL-Graph-Complementary-Learning)]
 
-### (Semi-)Supervised Learning
+### UnSupervised Learning
 
 #### Contrastive Learning
 - [AAAI 2023] **Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating** [[Pdf](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
@@ -153,6 +153,8 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Leveraging Contrastive Learning for Enhanced Node Representations in Tokenized Graph Transformers** [[Paper](https://arxiv.org/pdf/2406.19258)], [Code]
 - [ArXiv] **NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification** [[Paper](https://arxiv.org/pdf/2406.19249)], [Code]
 - [ArXiv] **Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach** [[Paper](https://arxiv.org/abs/2406.03464)], [Code]
+- [ArXiv] **Heterophily-Aware Fair Recommendation using Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2402.03365)], [Code]
+
 
 ## Year 2023
 
