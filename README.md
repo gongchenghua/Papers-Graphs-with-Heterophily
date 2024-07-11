@@ -131,6 +131,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 # Papers published per year
 
 ## Year 2024
+- [KDD 2024] **AGS-GNN: Attribute-guided Sampling for Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2405.15218)], [Code]
 - [KDD 2024] **The Heterophilic Snowflake Hypothesis:Training and Empowering GNNs for Heterophilic Graphs** [[Paper](https://arxiv.org/pdf/2406.12539)], [Code]
 - [ICML 2024] **GATE: How to Keep Out Intrusive Neighbors** [[Paper](https://arxiv.org/pdf/2406.00418)], [Code]
 - [ICML 2024] **Less is More: on the Over-Globalizing Problem in Graph Transformers** [[Paper](https://arxiv.org/pdf/2405.01102)], [Code]
@@ -142,6 +143,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ICLR 2024] **Affinity-based homophily: can we measure homophily of a graph without using node labels?** [[Paper](https://openreview.net/forum?id=IsdDOrAowN)], [Code]
 - [ICLR 2024] **PolyGCL: Graph Contrastive Learning via Learnable Spectral Polynomial Filters** [[Paper](https://openreview.net/forum?id=y21ZO6M86t)], [Code]
 - [ICLR 2024] **Polynormer: Polynomial-Expressive Graph Transformer in Linear Time** [[Paper](https://openreview.net/pdf?id=hmv1LpNfXa)], [Code]
+- [WWW 2024] **Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace Approach** [[Paper](https://arxiv.org/pdf/2403.07954)], [Code]
 - [WWW 2024] **Disambiguated Node Classification with Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2402.08824.pdf)], [Code]
 - [WWW 2024] **Challenging Low Homophily in Social Recommendation** [[Paper](https://browse.arxiv.org/pdf/2401.14606.pdf)], [Code]
 - [ECML-PKDD 2024] **Self-Pro: A Self-Prompt and Tuning Framework for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
@@ -154,7 +156,9 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **NTFormer: A Composite Node Tokenized Graph Transformer for Node Classification** [[Paper](https://arxiv.org/pdf/2406.19249)], [Code]
 - [ArXiv] **Node-wise Filtering in Graph Neural Networks: A Mixture of Experts Approach** [[Paper](https://arxiv.org/abs/2406.03464)], [Code]
 - [ArXiv] **Heterophily-Aware Fair Recommendation using Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2402.03365)], [Code]
-
+- [ArXiv] **Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding** [[Paper](https://arxiv.org/pdf/2403.03465)], [Code]
+- [ArXiv] **Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network** [[Paper](https://arxiv.org/pdf/2403.17351)], [Code]
+- [ArXiv] **Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach** [[Paper](https://arxiv.org/pdf/2402.14802)], [Code]
 
 ## Year 2023
 
