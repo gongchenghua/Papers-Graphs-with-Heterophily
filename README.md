@@ -133,6 +133,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 ## Year 2024
 - [KDD 2024] **AGS-GNN: Attribute-guided Sampling for Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2405.15218)], [Code]
 - [KDD 2024] **The Heterophilic Snowflake Hypothesis:Training and Empowering GNNs for Heterophilic Graphs** [[Paper](https://arxiv.org/pdf/2406.12539)], [Code]
+- [ICML 2024] **Cooperative Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2310.01267)], [Code]
 - [ICML 2024] **GATE: How to Keep Out Intrusive Neighbors** [[Paper](https://arxiv.org/pdf/2406.00418)], [Code]
 - [ICML 2024] **Less is More: on the Over-Globalizing Problem in Graph Transformers** [[Paper](https://arxiv.org/pdf/2405.01102)], [Code]
 - [ICML 2024] **Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective** [[Paper](https://arxiv.org/pdf/2402.04621)], [Code]
