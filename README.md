@@ -199,9 +199,12 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [AAAI 2023] **Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating** [[Pdf](https://arxiv.org/abs/2211.14065)], [[Code](https://github.com/yixinliu233/GREET)]
 - [AAAI 2023] **Restructuring Graph for Higher Homophily via Adaptive Spectral Clustering** [[Paper](https://arxiv.org/abs/2206.02386)], [[Code](https://github.com/seanli3/graph_restructure)]
 - [AAAI-W 2023] **2-hop Neighbor Class Similarity (2NCS): A graph structural metric indicative of graph neural network performance** [[Paper](https://arxiv.org/abs/2212.13202)], [Code]
-  
+- [MM 2023] **Multi-modal Social Bot Detection: Learning Homophilic and Heterophilic Connections Adaptively** [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612569)], [Code]
+
+
 - [CIKM 2023] **Homophily-enhanced Structure Learning for Graph Clustering** [[Paper](https://arxiv.org/abs/2308.05309)], [[Code](https://github.com/galogm/HoLe)]
 - [CIKM 2023] **MUSE: Multi-View Contrastive Learning for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2307.16026], [[Code](https://anonymous.4open.science/r/MUSE-BD4B)]
+- [CIKM 2023] **SplitGNN: Spectral Graph Neural Network for Fraud Detection against Heterophily], [[Code](https://dl.acm.org/doi/abs/10.1145/3583780.3615067)]
 
 - [ECML-PKDD 2023] **Leveraging Free Labels to Power up Heterophilic Graph Learning in Weakly-Supervised Settings: An Empirical Study** [[Paper](https://www.springerprofessional.de/leveraging-free-labels-to-power-up-heterophilic-graph-learning-i/26051948)], [Code]
 - [ECML-PKDD 2023] **Learning to Augment Graph Structure for both Homophily and Heterophily** [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-43418-1_1)], [[Code](https://github.com/LirongWu/L2A)]
