@@ -147,6 +147,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [WWW 2024] **Optimizing Polynomial Graph Filters: A Novel Adaptive Krylov Subspace Approach** [[Paper](https://arxiv.org/pdf/2403.07954)], [Code]
 - [WWW 2024] **Disambiguated Node Classification with Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2402.08824.pdf)], [Code]
 - [WWW 2024] **Challenging Low Homophily in Social Recommendation** [[Paper](https://browse.arxiv.org/pdf/2401.14606.pdf)], [Code]
+- [AAAI 2024] **Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28773)], [Code]
 - [ECML-PKDD 2024] **Self-Pro: A Self-Prompt and Tuning Framework for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
 - [UAI 2024] **Graph Contrastive Learning under Heterophily via Graph Filters** [[Paper](https://arxiv.org/pdf/2303.06344v2)], [Code]
 - [Neural Networks] **DPGCL: Dual pass filtering based graph contrastive learning** [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024004416)], [Code]
