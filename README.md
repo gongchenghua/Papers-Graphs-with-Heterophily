@@ -165,6 +165,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Self-Attention Empowered Graph Convolutional Network for Structure Learning and Node Embedding** [[Paper](https://arxiv.org/pdf/2403.03465)], [Code]
 - [ArXiv] **Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network** [[Paper](https://arxiv.org/pdf/2403.17351)], [Code]
 - [ArXiv] **Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach** [[Paper](https://arxiv.org/pdf/2402.14802)], [Code]
+- [ArXiv] **Molecule Generation by Heterophilious Triple Flows** [[Paper](https://openreview.net/forum?id=bZHz9WYs9z)], [Code]
 
 ## Year 2023
 
