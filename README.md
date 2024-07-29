@@ -131,6 +131,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 # Papers published per year
 
 ## Year 2024
+- [CIKM 2024] **HC-GST: Heterophily-aware Distribution Consistency based Graph Self-training** [[Paper](https://arxiv.org/pdf/2407.17787)], [Code]
 - [KDD 2024] **AGS-GNN: Attribute-guided Sampling for Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2405.15218)], [Code]
 - [KDD 2024] **PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer** [[Paper](https://openreview.net/forum?id=vUgeBN7F9l)], [Code]
 - [KDD 2024] **The Heterophilic Snowflake Hypothesis:Training and Empowering GNNs for Heterophilic Graphs** [[Paper](https://arxiv.org/pdf/2406.12539)], [Code]
