@@ -167,6 +167,9 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Learn from Heterophily: Heterophilous Information-enhanced Graph Neural Network** [[Paper](https://arxiv.org/pdf/2403.17351)], [Code]
 - [ArXiv] **Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach** [[Paper](https://arxiv.org/pdf/2402.14802)], [Code]
 - [ArXiv] **Molecule Generation by Heterophilious Triple Flows** [[Paper](https://openreview.net/forum?id=bZHz9WYs9z)], [Code]
+- [ArXiv] **Provable Filter for Real-world Graph Clustering** [[Paper](https://arxiv.org/pdf/2403.03666)], [Code]
+- [ArXiv] **Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29514)], [Code]
+- [ArXiv] **HENCLER: Node Clustering in Heterophilous Graphs through Learned Asymmetric Similarity** [[Paper](https://arxiv.org/pdf/2405.17050)], [Code]
 
 ## Year 2023
 
