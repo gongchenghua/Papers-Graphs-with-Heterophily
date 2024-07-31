@@ -151,6 +151,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [WWW 2024] **Disambiguated Node Classification with Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2402.08824.pdf)], [Code]
 - [WWW 2024] **Challenging Low Homophily in Social Recommendation** [[Paper](https://browse.arxiv.org/pdf/2401.14606.pdf)], [Code]
 - [AAAI 2024] **Revisiting Graph-Based Fraud Detection in Sight of Heterophily and Spectrum** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28773)], [Code]
+- [AAAI 2024] **Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29514)], [Code]
 - [ECML-PKDD 2024] **Self-Pro: A Self-Prompt and Tuning Framework for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
 - [UAI 2024] **Graph Contrastive Learning under Heterophily via Graph Filters** [[Paper](https://arxiv.org/pdf/2303.06344v2)], [Code]
 - [Neural Networks] **DPGCL: Dual pass filtering based graph contrastive learning** [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024004416)], [Code]
@@ -168,7 +169,6 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Link Prediction under Heterophily: A Physics-Inspired Graph Neural Network Approach** [[Paper](https://arxiv.org/pdf/2402.14802)], [Code]
 - [ArXiv] **Molecule Generation by Heterophilious Triple Flows** [[Paper](https://openreview.net/forum?id=bZHz9WYs9z)], [Code]
 - [ArXiv] **Provable Filter for Real-world Graph Clustering** [[Paper](https://arxiv.org/pdf/2403.03666)], [Code]
-- [ArXiv] **Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29514)], [Code]
 - [ArXiv] **HENCLER: Node Clustering in Heterophilous Graphs through Learned Asymmetric Similarity** [[Paper](https://arxiv.org/pdf/2405.17050)], [Code]
 
 ## Year 2023
