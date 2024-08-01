@@ -154,6 +154,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [AAAI 2024] **Homophily-Related: Adaptive Hybrid Graph Filter for Multi-View Graph Clustering** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29514)], [Code]
 - [ECML-PKDD 2024] **Self-Pro: A Self-Prompt and Tuning Framework for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2310.10362)], [Code]
 - [UAI 2024] **Graph Contrastive Learning under Heterophily via Graph Filters** [[Paper](https://arxiv.org/pdf/2303.06344v2)], [Code]
+- [Neurocomputing] **WSSGCN: Wide Sub-stage Graph Convolutional Networks** [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231224010440)], [Code]
 - [Neural Networks] **DPGCL: Dual pass filtering based graph contrastive learning** [[Paper](https://www.sciencedirect.com/science/article/pii/S0893608024004416)], [Code]
 - [Pattern Recognition Letters] **Neighbors selective Graph Convolutional Network for homophily and heterophily** [[Paper](https://www.sciencedirect.com/science/article/pii/S016786552400165X)], [Code]
 - [Expert Systems with Applications] **Multi-View Discriminative Edge Heterophily Contrastive Learning Network for Graph Anomaly Detection** [[Paper](https://www.sciencedirect.com/science/article/pii/S0957417424013265)], [Code]
