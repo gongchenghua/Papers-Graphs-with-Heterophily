@@ -138,6 +138,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ICML 2024] **Cooperative Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2310.01267)], [Code]
 - [ICML 2024] **GATE: How to Keep Out Intrusive Neighbors** [[Paper](https://arxiv.org/pdf/2406.00418)], [Code]
 - [ICML 2024] **Less is More: on the Over-Globalizing Problem in Graph Transformers** [[Paper](https://arxiv.org/pdf/2405.01102)], [Code]
+- [ICML 2024] **How Universal Polynomial Bases Enhance Spectral Graph Neural Networks: Heterophily, Over-smoothing, and Over-squashing** [[Paper](https://arxiv.org/pdf/2405.12474)], [Code]
 - [ICML 2024] **Feature Distribution on Graph Topology Mediates the Effect of Graph Convolution: Homophily Perspective** [[Paper](https://arxiv.org/pdf/2402.04621)], [Code]
 - [ICML 2024] **Efficient Contrastive Learning for Fast and Accurate Inference on Graphs** [[Paper](https://openreview.net/forum?id=vsy21Xodrt)], [Code]
 - [ICML 2024] **Mitigating Oversmoothing Through Reverse Process of GNNs for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2403.10543)], [Code]
@@ -171,6 +172,7 @@ In this survey, we summarize over 180 high-quality papers published in top confe
 - [ArXiv] **Molecule Generation by Heterophilious Triple Flows** [[Paper](https://openreview.net/forum?id=bZHz9WYs9z)], [Code]
 - [ArXiv] **Provable Filter for Real-world Graph Clustering** [[Paper](https://arxiv.org/pdf/2403.03666)], [Code]
 - [ArXiv] **HENCLER: Node Clustering in Heterophilous Graphs through Learned Asymmetric Similarity** [[Paper](https://arxiv.org/pdf/2405.17050)], [Code]
+- [ArXiv] **UniGAP: A Universal and Adaptive Graph Upsampling Approach to Mitigate Over-Smoothing in Node Classification Tasks** [[Paper](https://arxiv.org/pdf/2407.19420)], [Code]
 
 ## Year 2023
 
