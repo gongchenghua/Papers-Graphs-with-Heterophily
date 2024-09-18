@@ -251,8 +251,6 @@ Further, we present the Top-10 keywords that appear in the titles of collected p
 
 - [ICDM-W 2023] **Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection** [[Paper](https://ieeexplore.ieee.org/abstract/document/10411688)], [Code]
 
-- [ACML 2023] **Unleashing the Power of High-pass Filtering in Continuous Graph Neural Networks** [[Paper](https://proceedings.mlr.press/v222/zhang24e.html)], [Code]
-
 - [Neurocomputing] **Signed attention based graph neural network for graphs with heterophily** [[Paper](https://www.sciencedirect.com/science/article/pii/S0925231223008548)], [Code]
 - [IEEE Access] **Improved Modeling and Generalization Capabilities of Graph Neural Networks With Legendre Polynomials** [[Paper](https://ieeexplore.ieee.org/abstract/document/10160025/)], [Code]
 - [TKDD] **Multi-View Graph Representation Learning Beyond Homophily** [[Paper](https://arxiv.org/abs/2304.07509)], [[Code](https://github.com/G-AILab/MVGE)]
