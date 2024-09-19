@@ -378,6 +378,7 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [LoG 2022] **DiffWire: Inductive Graph Rewiring via the Lovász Bound** [[Paper](https://proceedings.mlr.press/v198/arnaiz-rodri-guez22a.html)], [[Code]](https://github.com/AdrianArnaiz/DiffWire)
 - [LoG 2022] **[Tutorial]** **Graph Rewiring: From Theory to Applications in Fairness** [[Link]](https://ellisalicante.org/tutorials/GraphRewiring), [[Code]](https://github.com/ellisalicante/GraphRewiring-Tutorial)
 
+- [ICDM 2022] **HP-GMN: Graph Memory Networks for Heterophilous Graphs** [[Paper](https://arxiv.org/abs/2210.08195)], [[Code]](https://github.com/junjie-xu/hp-gmn)
 - [ICDM 2022] **Two Sides of The Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks** [[Paper](https://arxiv.org/abs/2102.06462)], [Code]
 - [ICDM-W 2022] **Improving Your Graph Neural Networks: A High-Frequency Booster** [[Paper](https://arxiv.org/abs/2210.08251)], [[Code]](https://github.com/sajqavril/Complement-Laplacian-Regularization)
 
@@ -393,7 +394,6 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [Arxiv] **Enhancing Intra-class Information Extraction for Heterophilous Graphs: One Neural Architecture Search Approach** [[Paper](https://arxiv.org/abs/2211.10990)], [Code]
 - [Arxiv] **Transductive Kernels for Gaussian Processes on Graphs** [[Paper](https://arxiv.org/abs/2211.15322)], [Code]
 - [Arxiv] **Flip Initial Features: Generalization of Neural Networks for Semi-supervised Node Classification** [[Paper](https://arxiv.org/abs/2211.15081v2)], [Code]
-- [Arxiv] **HP-GMN: Graph Memory Networks for Heterophilous Graphs** [[Paper](https://arxiv.org/abs/2210.08195)], [[Code]](https://github.com/junjie-xu/hp-gmn)
 - [Arxiv] **When Do We Need GNN for Node Classification?** [[Paper](https://arxiv.org/abs/2210.16979)], [Code]
 - [Arxiv] **Break the Wall Between Homophily and Heterophily for Graph Representation Learning** [[Paper](https://arxiv.org/abs/2210.05382)], [Code]
 - [Arxiv] **GPNet: Simplifying Graph Neural Networks via Multi-channel Geometric Polynomials** [[Paper](https://arxiv.org/abs/2209.15454)], [Code]
@@ -406,7 +406,6 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [Arxiv] **Augmentation-Free Graph Contrastive Learning with Performance Guarantee** [[Paper](https://arxiv.org/abs/2204.04874)], [Code]
 - [Arxiv] **Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation** [[Paper](https://arxiv.org/abs/2205.09389)], [Code]
 - [Arxiv] **Revisiting the Role of Heterophily in Graph Representation Learning: An Edge Classification Perspective** [[Paper](https://arxiv.org/abs/2205.11322)], [Code]
-- [Arxiv] **ES-GNN: Generalizing Graph Neural Networks Beyond Homophily with Edge Splitting** [[Paper](https://arxiv.org/abs/2205.13700)], [Code]
 - [Arxiv] **Graph Representation Learning Beyond Node and Homophily** [[Paper](https://arxiv.org/abs/2203.01564)], [[Code](https://github.com/syvail/PairE-Graph-Representation-Learning-Beyond-Node-and-Homophily)]
 - [Arxiv] **Incorporating Heterophily into Graph Neural Networks for Graph Classification** [[Paper](https://arxiv.org/abs/2203.07678)], [[Code](https://github.com/yeweiysh/IHGNN)]
 - [Arxiv] **GSN: A Universal Graph Neural Network Inspired by Spring Network** [[Paper](https://arxiv.org/abs/2201.12994)], [Code]
