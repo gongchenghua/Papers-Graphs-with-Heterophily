@@ -35,6 +35,7 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [KDD 2024] **AGS-GNN: Attribute-guided Sampling for Graph Neural Networks** [[Paper](https://arxiv.org/pdf/2405.15218)], [Code]
 - [KDD 2024] **PolyFormer: Scalable Node-wise Filters via Polynomial Graph Transformer** [[Paper](https://openreview.net/forum?id=vUgeBN7F9l)], [Code]
 - [KDD 2024] **The Heterophilic Snowflake Hypothesis:Training and Empowering GNNs for Heterophilic Graphs** [[Paper](https://arxiv.org/pdf/2406.12539)], [Code]
+- [KDD 2024] **Flexible Graph Neural Diffusion with Latent Class Representation Learning** [[Paper](https://dl.acm.org/doi/pdf/10.1145/3637528.3671860)], [Code]
 
 - [ICML 2024] **Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing** [[Paper](https://openreview.net/forum?id=1sRuv4cnuZ)], [Code]
 - [ICML 2024] **Sign is Not a Remedy: Multiset-to-Multiset Message Passing for Learning on Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2405.20652)], [Code]
@@ -48,6 +49,7 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [ICML 2024] **Mitigating Oversmoothing Through Reverse Process of GNNs for Heterophilic Graphs** [[Paper](https://arxiv.org/abs/2403.10543)], [Code]
 - [ICML 2024] **S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning** [[Paper](https://openreview.net/pdf?id=znKAWRZSF9)], [Code]
 - [ICML 2024] **Neurodegenerative Brain Network Classification via Adaptive Diffusion with Temporal Regularization** [[Paper](https://openreview.net/pdf?id=GTnn6bNE3j)], [Code]
+- [ICML 2024] **Understanding Heterophily for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2401.09125)], [Code]
 
 
 - [ICLR 2024] **VCR-graphormer: A mini-batch graph transformer via virtual connections** [[Paper](https://arxiv.org/pdf/2403.16030)], [Code]
@@ -163,7 +165,6 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [Arxiv] **Heterophily-Aware Fair Recommendation using Graph Convolutional Networks** [[Paper](https://arxiv.org/abs/2402.03365)], [Code]
 - [Arxiv] **When Heterophily Meets Heterogeneous Graphs: Latent Graphs Guided Unsupervised Representation Learning** [[Paper](https://arxiv.org/abs/2409.00687)], [Code]
 - [Arxiv] **When Heterophily Meets Heterogeneity: New Graph Benchmarks and Effective Methods** [[Paper](https://arxiv.org/abs/2407.10916)], [Code]
-- [Arxiv] **Understanding Heterophily for Graph Neural Networks** [[Paper](https://arxiv.org/abs/2401.09125)], [Code]
 - [Arxiv] **Leveraging Invariant Principle for Heterophilic Graph Structure Distribution Shifts** [[Paper](https://arxiv.org/abs/2408.09490)], [Code]
 - [Arxiv] **HC-GST: Heterophily-aware Distribution Consistency based Graph Self-training** [[Paper](https://arxiv.org/abs/2407.17787)], [Code]
 - [Arxiv] **Unraveling the Impact of Heterophilic Structures on Graph Positive-Unlabeled Learning** [[Paper](https://arxiv.org/abs/2405.19919)], [Code]
