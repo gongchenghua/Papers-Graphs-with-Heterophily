@@ -3,18 +3,20 @@
 ![](https://img.shields.io/github/last-commit/gongchenghua/Papers-Graphs-with-Heterophily?color=blue)  ![Stars](https://img.shields.io/github/stars/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=red) ![Forks](https://img.shields.io/github/forks/gongchenghua/Awesome-A-Survey-of-Learning-from-Graphs-with-Heterophily?color=blue&label=Fork)
 
 This repository contains a list of the relevant resources on learning from graphs with heterophily. 
-We categorize the following papers based on their published years. We will try our best to continuously maintain this repository in real time. If you found any error or any missed paper, please don't hesitate to open issues.
+We categorize the following papers based on their published years. 
+We will try our best to continuously maintain this repository in real time. If you found any error or any missed paper, please don't hesitate to open issues.
 
 # Literature Overview
 <p align = "center">   
 <img src="fig/num.png"  width="200" height=“200”/>
-<img src="fig/piechart.png"  width="300" height=“300”/>
-<img src="fig/keywords.png"  width="320" height=“350”/>
+<img src="fig/piechart.png"  width="240" height=“200”/>
+<img src="fig/keywords.png"  width="220" height=“250”/>
 </p>
-In this survey, we summarize over 500 high-quality papers published in top conferences or journals over the past 5 years including but not limited to ICML, NeurIPS, ICLR, KDD, WWW, TPAMI, etc. 
+In this survey, we summarize over 500 high-quality papers published in top conferences or journals over the past 5 years including but not limited to ICML, NeurIPS, ICLR, KDD, WWW, AAAI, IJCAI, ICDE, TPAMI, TKDE etc. 
 To catch up with the frontiers, some latest works on OpenReview and Arxiv are also included. In the above we summarizes the statistics of the collected papers. 
-We see that the number of papers released about heterophily graph learning has significantly increased in recent three years. Meanwhile, the distribution of collected papers published in major venues is given above. 
-Further, we present the Top-10 keywords that appear in the titles of collected papers.
+We see that the number of papers released about graph heterophily has significantly increased in recent five years. 
+Meanwhile, the distribution of sources for collected papers published is given above. 
+Further, we present the high-frequency keywords that appear in the titles of collected papers.
 
 # Other surveys
 - [Arxiv 2022] **Graph Neural Networks for Graphs with Heterophily: A Survey** [[Paper](https://arxiv.org/abs/2202.07082)]
