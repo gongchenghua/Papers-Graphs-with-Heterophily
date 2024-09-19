@@ -18,10 +18,11 @@ We see that the number of papers released about graph heterophily has significan
 Meanwhile, the distribution of sources for collected papers published is given above. 
 Further, we present the high-frequency keywords that appear in the titles of collected papers.
 
-# Other surveys
-- [Arxiv 2022] **Graph Neural Networks for Graphs with Heterophily: A Survey** [[Paper](https://arxiv.org/abs/2202.07082)]
-- [IEEE DBE 2023] **Heterophily and Graph Neural Networks: Past, Present and Future** [[Paper](https://par.nsf.gov/servlets/purl/10435541)]
+# Surveys
+- [Arxiv 2024] **A Survey on Learning from Graphs with Heterophily:Progress and Future** [[Paper](https://arxiv.org/abs/2401.09769)]
 - [Arxiv 2024] **The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges** [[Paper](https://arxiv.org/abs/2407.09618)]
+- [IEEE DBE 2023] **Heterophily and Graph Neural Networks: Past, Present and Future** [[Paper](https://par.nsf.gov/servlets/purl/10435541)]
+- [Arxiv 2022] **Graph Neural Networks for Graphs with Heterophily: A Survey** [[Paper](https://arxiv.org/abs/2202.07082)]
 
 # Papers published per year
 
