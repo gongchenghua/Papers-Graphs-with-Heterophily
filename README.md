@@ -65,6 +65,7 @@ Further, we present the high-frequency keywords that appear in the titles of col
 - [WWW 2024] **Challenging Low Homophily in Social Recommendation** [[Paper](https://browse.arxiv.org/pdf/2401.14606.pdf)], [Code]
 - [WWW 2024] **GAUSS: GrAph-customized Universal Self-Supervised Learning** [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645453)], [Code]
 
+- [AAAI 2024] **PC-Conv: Unifying Homophily and Heterophily with Two-fold Filtering** [[Paper](https://arxiv.org/pdf/2312.14438)], [Code]
 - [AAAI 2024] **Kumaraswamy Wavelet for Heterophilic Scene Graph Generation** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/27875)], [Code]
 - [AAAI 2024] **DGA-GNN: Dynamic Grouping Aggregation GNN for Fraud Detection** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29067)], [Code]
 - [AAAI 2024] **Graph Neural Networks with Soft Association between Topology and Attribute** [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28778)], [Code]
