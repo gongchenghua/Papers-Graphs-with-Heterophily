@@ -27,6 +27,8 @@ Further, we present the high-frequency keywords that appear in the titles of col
 # Papers published per year
 
 ## Year 2024
+- [NIPS 2024] **On the Impact of Feature Heterophily on Link Prediction with Graph Neural Networks** [[Paper](https://arxiv.org/abs/2409.17475)], [Code]
+
 - [IJCAI 2024] **LG-GNN: Local-Global Adaptive Graph Neural Network for Modeling Both Homophily and Heterophily** [[Paper](https://www.ijcai.org/proceedings/2024/0278.pdf)], [Code]
 - [IJCAI 2024] **HeterGCL: Graph Contrastive Learning Framework on Heterophilic Graph** [[Paper](https://www.ijcai.org/proceedings/2024/0265.pdf)], [Code]
 
